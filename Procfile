@@ -1,3 +1,3 @@
 build:
   docker:
-    worker: main
+    worker: python3 -m bot.py
